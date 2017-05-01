@@ -1,0 +1,52 @@
+A	EI_T1
+B	BI_T4
+C	s i_h i_h
+D	DI_T4
+E	YI_T4
+F	AI_T2 FU_T0
+G	zh i_h i_l
+H	EI_T2 CHI_T0
+I	AI_T1
+J	ZHEI_T1
+K	KEI_T1
+L	AI_T2 OU_T0
+M	AI_T2 MU_T0
+N	EN_T1
+O	OU_T1
+P	PI_T1
+Q	KIU_T4
+R	ER_T1
+S	AI_T2 SI_T0
+T	TI_T1
+U	YOU_T1
+V	WEI_T1
+W	DA_T2 BU_T0 LIU_T0
+X	AI_T2 KE_T0 SI_T0
+Y	WAI_T1
+Z	ZEI_T1
+a	EI_T1
+b	BI_T4
+c	s i_h i_h
+d	DI_T4
+e	YI_T4
+f	AI_T2 FU_T0
+g	zh i_h i_l
+h	EI_T2 CHI_T0
+i	AI_T1
+j	ZHEI_T1
+k	KEI_T1
+l	AI_T2 OU_T0
+m	AI_T2 MU_T0
+n	EN_T1
+o	OU_T1
+p	PI_T1
+q	KIU_T4
+r	ER_T1
+s	AI_T2 SI_T0
+t	TI_T1
+u	YOU_T1
+v	WEI_T1
+w	DA_T2 BU_T0 LIU_T0
+x	AI_T2 KE_T0 SI_T0
+y	WAI_T1
+z	ZEI_T1
