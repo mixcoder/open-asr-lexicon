@@ -22,8 +22,8 @@ for l in open(ilex_fn, 'r'):
 	word  = cols[0]
 	prons = cols[1].split(';')
 
-	sys.stdout.write('{}\t'.format(word))
 	for pron in prons:
+		sys.stdout.write('{}\t'.format(word))
 		symbols = pron.split(' ')
 		for i in range(len(symbols)):
 			if mapping.get(symbols[i]) != None:
@@ -32,6 +32,4 @@ for l in open(ilex_fn, 'r'):
 				sys.stdout.write('{}'.format(symbols[i]))
 			if i != len(symbols)-1:
 				sys.stdout.write(' ')
-		if pron != prons[-1]:
-			sys.stdout.write(';')
-	sys.stdout.write('\n')
+		sys.stdout.write('\n')
